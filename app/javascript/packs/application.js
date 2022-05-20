@@ -10,6 +10,7 @@ import "channels"
 import "bootstrap";
 
 
+
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
